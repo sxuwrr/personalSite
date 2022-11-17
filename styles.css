@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+    background-color: #E0D8B0;
+
+}
+
+h1 {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+
+#pp {
+
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    margin-bottom: 20px;
+    object-fit: cover;
+    /* this one for fill image not strecth*/
+    border: solid;
+    border-color: #CE9461;
+}
+
+.words {
+    color: #CE9461;
+}
+
+.topContainer {
+    text-align: center;
+    margin-top: 18%;
+}
+
+.midCont {
+    text-align: center;
+    justify-content: center;
+    display: flex;
+}
+
+#mailIcon {
+    height: 25px;
+    width: 25px;
+    margin: 10px 10px 0px 0px;
+}
+
+#mailTarget {
+    margin: 10px 10px 0px 0px;
+}
+
+.botCont {
+    text-align: center;
+}
